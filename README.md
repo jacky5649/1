@@ -6,5 +6,5 @@
 進入 google driver : https://drive.google.com
 
 右鍵上傳專案所在的資料夾：
-![GitHub Logo] (https://i-blog.csdnimg.cn/blog_migrate/09e3e7b3f4f97f13f0683c6262b061cf.png)
+
 
