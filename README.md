@@ -15,7 +15,7 @@
 
 我這裡簡單地上傳了一個名為test的資料夾，裡面只有一個 main.py 的檔，代碼也很簡單，但是可以簡單測試 Pytorch的使用。
 # 進入 colab：點擊左上角“新建”—->“更多”-->“Colaboratory”
-![image]
+![image](f59910d800495b82f1ffaab500684cd2.png)
 
 ```
 
