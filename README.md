@@ -22,5 +22,9 @@
   drive.mount ('/content/drive/')
 
 ```
+```
+!ls
+![image](d42ffb4e9c6b005b3a0bb3efb374dd28.png)
+```
 
 
