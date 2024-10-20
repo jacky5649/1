@@ -23,7 +23,7 @@
 這裡我選擇的 Python3 （根據自己代碼依賴的環境） 和 GPU，如果要用 GPU 這一步必須調整好。 每次調整這裡的設置，後面的步驟都要再次進行。 所以推薦這裏設置好
 
 ![image](3a80f36e25f695c5b0b609ed8c8d9d0f.png)
-
+# 代碼段裡面輸入
 ```
 
   from google.colab import drive 
