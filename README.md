@@ -3,9 +3,9 @@
 - 用自己的谷歌帳號使用 google driver 
 - 自己的專案在本地通過調試，放在一個資料夾裡面（包含資料集，最好是中文名稱）
 # 步驟
-進入 google driver : https://drive.google.com
+# 進入 google driver : https://drive.google.com
 
-右鍵上傳專案所在的資料夾：
+# 右鍵上傳專案所在的資料夾：
 
 ![image](09e3e7b3f4f97f13f0683c6262b061cf.png)
 ![image](6d5b17a2434dfaf201c8937f640859ae.png)
