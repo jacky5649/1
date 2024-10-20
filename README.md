@@ -50,6 +50,11 @@
 # 代碼段裡面輸入
 
 ```
+import os
+os.chdir(“drive/My Drive/test”)
+```
+
+```
 !ls
 ```
 
