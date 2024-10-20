@@ -71,6 +71,7 @@ os.chdir(“drive/My Drive/test”)
 ```
 !pyson main.py
 ```
+![image](e8bef75f2193b9bcdc5000050a2d9606.png)
 
 
 
