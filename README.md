@@ -17,6 +17,7 @@
 # 進入 colab：點擊左上角“新建”—->“更多”-->“Colaboratory”
 ![image](f59910d800495b82f1ffaab500684cd2.png)
 ![image](222b76b007840e17626fccf7a9c14148.png)
+# "Edit" --> " Notebook settings" -->
 ![image](69a3755864c781d7925077f592e459ea.png)
 
 這裡我選擇的 Python3 （根據自己代碼依賴的環境） 和 GPU，如果要用 GPU 這一步必須調整好。 每次調整這裡的設置，後面的步驟都要再次進行。 所以推薦這裏設置好
