@@ -23,7 +23,7 @@
   drive.mount ('/content/drive/')
 
 ```
-
+然後點擊左側的運行圖示，或者 Ctrl + Enter 運行。 這時候會出現
 ```
 !ls
 ```
