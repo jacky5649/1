@@ -54,6 +54,10 @@ import os
 os.chdir(“drive/My Drive/test”)
 ```
 
+最後一個test是其實是自己的專案名。 這個時候沒有任何提示信息，因為是Linux內核，所以按照Linux的思想：沒有消息就是最好的消息。
+
+說明一切順利。 這裡可以輸入
+
 ```
 !ls
 ```
