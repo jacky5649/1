@@ -38,6 +38,8 @@
 
 ![image](01b60cadbe84173e74bdef52741cce6d.png)
 
+這裡可以輸入
+
 ```
 !ls
 ```
