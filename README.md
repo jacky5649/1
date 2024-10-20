@@ -68,6 +68,7 @@ os.chdir(“drive/My Drive/test”)
 可以看到我們寫的 main.py 檔。
 
 # 代碼段裡面輸入
+```!pyson main.py```
 
 
 
