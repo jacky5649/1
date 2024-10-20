@@ -17,6 +17,7 @@
 # 進入 colab：點擊左上角“新建”—->“更多”-->“Colaboratory”
 ![image](f59910d800495b82f1ffaab500684cd2.png)
 ![image](222b76b007840e17626fccf7a9c14148.png)
+![image](69a3755864c781d7925077f592e459ea.png)
 ```
 
   from google.colab import drive 
