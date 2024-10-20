@@ -35,6 +35,9 @@
 ![image](eb5ac56afd818107cf050f7016002093.png)
 
 點擊 URL 進入，授權 Google 使用者，然後複製授權碼粘貼到輸入框，Enter。 這個時候回顯示掛載成功
+
+![image](01b60cadbe84173e74bdef52741cce6d.png)
+
 ```
 !ls
 ```
